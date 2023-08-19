@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+.foto{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 300px;
+    height: 300px;
+}
+.Text1{
+    color: darkviolet;
+    text-align: center;
+}
+.Text2{
+    color: darkorchid;
+    text-align: center;
+}
+.Text3{
+    color: darkmagenta;
+    text-align: center;
+}
+.Text4{
+    color: gold;
+    text-align: center;
+}
+.Text5{
+    color: violet;
+    text-align: center;
+}
+.Text6{
+    color: indigo;
+}
+.Text7{
+    color: darkturquoise;
+}
+.Text8{
+    color: aliceblue;
+}
+.Text9{
+    color: aqua;
+}
+.Text10{
+    color: green;
+}
+.Text11{
+    color: yellow;
+}
+.Text12{
+    color: cyan;
+}
+.Text13{
+    color: darkorange;
+}
+.Text14{
+    color: white;
+}
+.Text{
+    color: hotpink;
+}
